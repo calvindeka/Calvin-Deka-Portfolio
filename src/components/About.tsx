@@ -22,13 +22,6 @@ export const About = () => {
               </p>
             </Card>
 
-            <Card className="p-6 gradient-card border-border hover:border-primary/50 transition-smooth">
-              <Target className="h-12 w-12 text-primary mb-4" />
-              <h3 className="text-xl font-semibold mb-2">Goal</h3>
-              <p className="text-muted-foreground">
-                Seeking Summer 2026 AI Applications Internship at NVIDIA
-              </p>
-            </Card>
 
             <Card className="p-6 gradient-card border-border hover:border-primary/50 transition-smooth">
               <Lightbulb className="h-12 w-12 text-primary mb-4" />
